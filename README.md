@@ -15,3 +15,7 @@ We were given a project with an acceptance criteria(see below):
   WHEN I resize the page or view the site on various screens and devices
   THEN I am presented with a responsive layout that adapts to my viewport
 I have done my best to meet the criteria but its not pretty.
+
+## link to deployed page.
+
+https://lpw08.github.io/portfolio/
