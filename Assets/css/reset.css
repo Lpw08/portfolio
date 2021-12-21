@@ -1,0 +1,16 @@
+body, header,header h1,header nav, header nav ul, header nav ul li, header nav ul li a, .img-section, .img-section div img, .img-section div, .about-me h2, .p1, .img-projects, .img-projects div img, .img-projects div img:hover, .projects h2, .p2, .contact-me h2, div .contact-me, .p3,.footer{
+    margin: 0; padding: 0; border: 0; outline: none;
+}
+
+h1, h2, h3, .p1, .p2, .p3{
+    font-size: 100%;
+}
+body{
+line-height: 1;
+}
+ul li{
+    list-style: none;
+}
+.img-projects div img:hover{
+    text-decoration: underline;
+}
